@@ -1,1 +1,1 @@
-See my resume at: https://www.gatsbyjs.org/docs/gatsby-starters/
+See my resume at: https://chinhung.github.io/my-resume/
