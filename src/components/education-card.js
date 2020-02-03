@@ -3,8 +3,7 @@ import React from 'react';
 const educations = [
   {
     name: '自我學習',
-    duration: 'Forever',
-    desc: 'Web Development! All I need to know in one place'
+    duration: 'Forever'
   },
   {
     name: '資策會中壢中心 - Java雲端服務開發技術養成班',
