@@ -32,7 +32,7 @@ const PersonalCard = () => (
         <hr/>
 
         <p className="w3-large"><b><i className="fa fa-github fa-fw w3-margin-right w3-text-teal"></i>GitHub Repositories</b></p>
-        <p><a target="_blank" href="">This Site</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/my-resume">This Site</a></p>
         <p><a target="_blank" href="">Hello WebdriverIO</a></p>
         <p><a target="_blank" href="">Hello WebdriverIO Docker</a></p>
         <p><a target="_blank" href="">Hello Appium</a></p>
