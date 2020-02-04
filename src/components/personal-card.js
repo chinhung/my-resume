@@ -33,11 +33,11 @@ const PersonalCard = () => (
 
         <p className="w3-large"><b><i className="fa fa-github fa-fw w3-margin-right w3-text-teal"></i>GitHub Repositories</b></p>
         <p><a target="_blank" href="https://github.com/chinhung/my-resume">This Site</a></p>
-        <p><a target="_blank" href="">Hello WebdriverIO</a></p>
-        <p><a target="_blank" href="">Hello WebdriverIO Docker</a></p>
-        <p><a target="_blank" href="">Hello Appium</a></p>
-        <p><a target="_blank" href="">Hello Newman</a></p>
-        <p><a target="_blank" href="">Hello JMeter</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/hello-webdriverio">Hello WebdriverIO</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/hello-webdriverio-docker">Hello WebdriverIO Docker</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/hello-appium">Hello Appium</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/hello-newman">Hello Newman</a></p>
+        <p><a target="_blank" href="https://github.com/chinhung/hello-jmeter">Hello JMeter</a></p>
         
 
       </div>
