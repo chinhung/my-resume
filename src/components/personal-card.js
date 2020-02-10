@@ -28,7 +28,7 @@ const PersonalCard = () => (
         <hr/>
 
         <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>我的優勢</b></p>
-        <p>由於每個專案的資源與時間都是有限的，因此，測試團隊的挑戰在於，在有限的資源與時間中，測試那些最有代表性的測試案例以及識別出高風險的軟體缺陷。我的優勢在於我擁有3年的開發、維運經驗，讓我更有能力評估測試案例的代表性以及軟體缺陷的風險，並設定適合的優先級，且能與開發、維運團隊更密切的合作。</p>
+        <p>每個專案的資源與時間都是有限的。因此，測試團隊的挑戰在於，在有限的資源與時間中，測試那些最有代表性的測試案例以及識別出高風險的軟體缺陷。我的優勢在於我擁有3年的開發、維運經驗，讓我更有能力評估測試案例的代表性以及軟體缺陷的風險，並設定適合的優先級，且能與開發、維運團隊更密切的合作。</p>
         <hr/>
 
         <p className="w3-large"><b><i className="fa fa-github fa-fw w3-margin-right w3-text-teal"></i>GitHub Repositories</b></p>
